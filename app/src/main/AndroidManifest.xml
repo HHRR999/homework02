@@ -27,7 +27,8 @@
             android:enabled="true"
             android:exported="true" />
 
-        <activity android:name=".homework02_2"></activity>
+        <activity android:name=".homework02_2" />
+        <activity android:name=".homework02_3"></activity>
     </application>
 
 </manifest>
